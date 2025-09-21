@@ -1,73 +1,50 @@
-<!-- 小图标 -->
-<p align="center">
-  <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Animals/Bear.png" alt="Bear" width="50" height="50" />
-  <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Animals/Monkey Face.png" alt="Monkey Face" width="50" height="50" />  
-  <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Animals/Panda.png" alt="Panda" width="50" height="50" />  
-  <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Animals/Raccoon.png" alt="Raccoon" width="50" height="50" />  
-  <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Animals/Tiger Face.png" alt="Tiger Face" width="50" height="50" />  
-  <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Animals/Fox.png" alt="Fox" width="50" height="50" />  
-  <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Animals/Wolf.png" alt="Wolf" width="50" height="50" />  
-  <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Animals/Lion.png" alt="Lion" width="50" height="50" />  
-  <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Animals/Cat Face.png" alt="Cat Face" width="50" height="50" />
-  <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Animals/Dog Face.png" alt="Dog Face" width="50" height="50" />
-  <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Animals/Koala.png" alt="Koala" width="50" height="50" />  
-  <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Animals/Rabbit Face.png" alt="Rabbit Face" width="50" height="50" />  
-  <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Animals/Polar Bear.png" alt="Polar Bear" width="50" height="50" />
+<h1 align="center">Hi 👋, I'm huuyii</h1>
+<h1 align=“center”>嗨👋，我是 huuyii</h1>
+<h3 align="center">A passionate frontend developer from China</h3>
+<h3 align=“center”>来自中国的充满激情的前端开发人员</h3>
+
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=huuyii-sleeping&label=Profile%20views&color=0e75b6&style=flat" alt="huuyii-sleeping" /> </p>
+<p align=“left”> <img src=“https://komarev.com/ghpvc/?username=huuyii-sleeping&label=Profile%20views&color=0e75b6&style=flat” alt=“huuyii-sleeping” /> </p>
+
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=huuyii-sleeping" alt="huuyii-sleeping" /></a> </p>
+<p align=“left”> <a href=“https://github.com/ryo-ma/github-profile-trophy”><img src=“https://github-profile-trophy.vercel.app/?username=huuyii-sleeping” alt=“huuyii-sleeping” /></a> </p>
+
+<p align="left"> <a href="https://twitter.com/" target="blank"><img src="https://img.shields.io/twitter/follow/?logo=twitter&style=for-the-badge" alt="" /></a> </p>
+<p align=“left”> <a href=“https://twitter.com/” target=“blank”><img src=“https://img.shields.io/twitter/follow/?logo=twitter&style=for-the-badge” alt=“” /></a> </p>
+
+- 🌱 I’m currently learning **Fronted-end**
+- 🌱 我目前正在学习 **前端**
+
+- 📝 I regularly write articles on [https://blog.huuyii.cn/](https://blog.huuyii.cn/)
+- 📝 我经常在[https://blog.huuyii.cn/]（https://blog.huuyii.cn/）上写文章
+
+- 💬 Ask me about **vue**
+- 💬 问我关于 **vue** 的问题
+
+- 📫 How to reach me **3134846106@qq.com**
+- 📫 如何联系我 **3134846106@qq.com**
+
+- 📄 Know about my experiences [still student](still student)
+- 📄 了解我的经历 [还是学生]（还是学生）
+
+- ⚡ Fun fact **code code code !!!**
+- ⚡ 有趣的事实 **代码代码代码 !! **
+
+<h3 align="left">Connect with me:</h3>
+<h3 align=“left”>与我联系：</h3>
+<p align="left">  <p align=“left”>
 </p>
 
-<!-- 打字机 -->
-<p align="center">
-    <img width="800" src="https://readme-typing-svg.demolab.com?font=Orbitron&pause=3000&center=true&color=ff9943&vCenter=true&repeat=true&width=435&lines=Welcome+to+my+GitHub+page+." />
-</p>
+<h3 align="left">Languages and Tools:</h3>
+<h3 align=“left”>语言和工具：</h3>
+<p align="left"> <a href="https://canvasjs.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/Hardik0307/Hardik0307/master/assets/canvasjs-charts.svg" alt="canvasjs" width="40" height="40"/> </a> <a href="https://www.chartjs.org" target="_blank" rel="noreferrer"> <img src="https://www.chartjs.org/media/logo-title.svg" alt="chartjs" width="40" height="40"/> </a> <a href="https://d3js.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/d3js/d3js-original.svg" alt="d3js" width="40" height="40"/> </a> <a href="https://www.docker.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="docker" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://nodejs.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> </a> <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> <a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="typescript" width="40" height="40"/> </a> <a href="https://vuejs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vuejs/vuejs-original-wordmark.svg" alt="vuejs" width="40" height="40"/> </a> </p>
+<p align=“left”> <a href=“https://canvasjs.com” target=“_blank” rel=“noreferrer”> <img src=“https://raw.githubusercontent.com/Hardik0307/Hardik0307/master/assets/canvasjs-charts.svg” alt=“canvasjs” width=“40” height=“40”/> < </a> a href=“https://www.chartjs.org” target=“_blank” rel=“noreferrer”> <img src=“https://www.chartjs.org/media/logo-title.svg” alt=“chartjs” width=“40” height=“40”/> < </a> a href=“https://d3js.org/” target=“_blank” rel=“noreferrer”> <img src=“https://raw.githubusercontent.com/devicons/devicon/master/icons/d3js/d3js-original.svg” alt=“d3js” width=“40” height=“40”/> < </a> a href=“https://www.docker.com/” target=“_blank” rel=“noreferrer”> <img src=“https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg” alt=“docker” width=“40” height=“40”/> < </a> a href=“https://git-scm.com/” target=“_blank” rel=“noreferrer”> <img src=“https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg” alt=“git” width=“40” height=“40”/> </a> <a href=“https://developer.mozilla.org/en-US/docs/Web/JavaScript” target=“_blank” rel=“noreferrer”> <img src=“https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg” alt=“javascript” width=“40” height=“40”/> < </a> a href=“https://nodejs.org” target=“_blank” rel=“noreferrer”> <img src=“https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg” alt=“nodejs” width=“40” height=“40”/> </a> <a href=“https://reactjs.org/” target=“_blank” rel=“noreferrer”> <img src=“https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg” alt=“react” width=“40” height=“40”/> < </a> a href=“https://www.typescriptlang.org/” target=“_blank” rel=“noreferrer”> <img src=“https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg” alt=“typescript” width=“40” height=“40”/> < </a> a href=“https://vuejs.org/” target=“_blank” rel=“noreferrer”> <img src=“https://raw.githubusercontent.com/devicons/devicon/master/icons/vuejs/vuejs-original-wordmark.svg” alt=“vuejs” width=“40” height=“40”/> </a> </p>
 
-<!-- 个人信息 -->
-<p align="center">
-  <a href="https://github.com/Breezli">
-    <img height=200 align="center" src="https://github-readme-stats.vercel.app/api?username=Huuyii&show_icons=true&theme=flag-india" />
-  </a>
-  <a href="https://github.com/Breezli">
-    <img height=200 align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=Huuyii&layout=compact&langs_count=8&card_width=344&theme=flag-india" />
-  </a>
-</p>
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=huuyii-sleeping&show_icons=true&locale=en&layout=compact" alt="huuyii-sleeping" /></p>
+<p><img align=“left” src=“https://github-readme-stats.vercel.app/api/top-langs?username=huuyii-sleeping&show_icons=true&locale=en&layout=compact” alt=“huuyii-sleeping” /></p>
 
-<!-- 技术栈动态图 -->
-<p align="center">
-  <code><img width="50" src="https://user-images.githubusercontent.com/25181517/117448124-a2da9800-af3e-11eb-85d2-bd1b69b65603.png" alt="Vue.js" title="Vue.js"/></code>
-  <code><img width="50" src="https://github-production-user-asset-6210df.s3.amazonaws.com/62091613/261395532-b40892ef-efb8-4b0e-a6b5-d1cfc2f3fc35.png" alt="Vite" title="Vite"/></code>
-  <code><img width="50" src="https://cn.vitest.dev/favicon.ico" alt="Vitest" title="Vitest"/></code>
-  <img src="https://techstack-generator.vercel.app/github-icon.svg" alt="Github" title="Github" width="63" height="63" style="margin-left: 60px;" />
-  <img src="https://techstack-generator.vercel.app/js-icon.svg" alt="JavaScript" title="JavaScript" width="63" height="63" />
-  <img src="https://techstack-generator.vercel.app/ts-icon.svg" alt="TypeScript" title="TypeScript" width="63" height="63" />
-  <img src="https://techstack-generator.vercel.app/sass-icon.svg" alt="Sass" title="Sass" width="63" height="63" />
-  <img src="https://techstack-generator.vercel.app/storybook-icon.svg" alt="Storybook" title="Storybook" width="63" height="63" />
-  <img src="https://techstack-generator.vercel.app/prettier-icon.svg" alt="Prettier" title="Prettier" width="63" height="63" />
-</p>
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=huuyii-sleeping&show_icons=true&locale=en" alt="huuyii-sleeping" /></p>
+<p> <img align=“center” src=“https://github-readme-stats.vercel.app/api?username=huuyii-sleeping&show_icons=true&locale=en” alt=“huuyii-sleeping” /></p>
 
-<!-- 贡献统计 -->
-<!--<p align="center">
-  <img height=200 align="center" src="https://github-readme-streak-stats.herokuapp.com?user=Breezli&hide_border=false%C2%A0%C2%A0%E5%81%87&border_radius=5&locale=zh_Hans&short_numbers=false%C2%A0%C2%A0%E5%81%87&date_format=j%20M%5B%20Y%5D&mode=weekly&card_width=500&theme=ayu-light" />
-</p>-->
-
-<!-- 贪吃蛇 -->
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Breezli/Breezli/output/github-contribution-grid-snake-dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Breezli/Breezli/output/github-contribution-grid-snake.svg">
-  <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/Breezli/Breezli/output/github-contribution-grid-snake.svg">
-</picture>
-
-<!-- 小图标 -->
-<p align="center">
-  <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Smilies/Hushed Face.png" alt="Hushed Face" width="50" height="50" />
-  <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Smilies/Pleading Face.png" alt="Pleading Face" width="50" height="50" />  
-  <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Smilies/Dotted Line Face.png" alt="Dotted Line Face" width="50" height="50" />  
-  <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Smilies/Kissing Face with Closed Eyes.png" alt="Kissing Face with Closed Eyes" width="50" height="50" />  
-  <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Smilies/Fearful Face.png" alt="Fearful Face" width="50" height="50" />  
-  <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Smilies/Smiling Face with Horns.png" alt="Smiling Face with Horns" width="50" height="50" />  
-  <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Smilies/Zany Face.png" alt="Zany Face" width="50" height="50" />  
-  <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Smilies/Smirking Face.png" alt="Smirking Face" width="50" height="50" />  
-  <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Smilies/Sleepy Face.png" alt="Sleepy Face" width="50" height="50" />
-  <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Smilies/Face with Symbols on Mouth.png" alt="Face with Symbols on Mouth" width="50" height="50" />
-  <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Smilies/Nerd Face.png" alt="Nerd Face" width="50" height="50" />  
-  <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Smilies/Unamused Face.png" alt="Unamused Face" width="50" height="50" />  
-  <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Smilies/Tired Face.png" alt="Tired Face" width="50" height="50" />
-</p>
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=huuyii-sleeping&" alt="huuyii-sleeping" /></p>
+<p><img align=“center” src=“https://github-readme-streak-stats.herokuapp.com/?user=huuyii-sleeping&” alt=“huuyii-sleeping” /></p>
