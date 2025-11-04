@@ -15,6 +15,8 @@
 
 - ⚡ Fun fact **code code code !!!**
 
+![Personal 3D Metrics](./profile-3d-contrib/profile-green-animate.svg)
+
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 </p>
@@ -27,3 +29,6 @@
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=huuyii-sleeping&show_icons=true&locale=en" alt="huuyii-sleeping" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=huuyii-sleeping&" alt="huuyii-sleeping" /></p>
+
+
+
