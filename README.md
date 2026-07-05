@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Cascadia+Code&weight=700&size=17&color=0078D7&center=true&pause=100000&lines=Hi,+I'm+Huuyii.+Full-Stack+Developer" alt="Hi"/>
+  <img src="https://readme-typing-svg.herokuapp.com?font=Cascadia+Code&weight=700&size=17&color=0078D7&center=true&pause=100000&lines=Hi,+I'm+HeartBeat+Yonder.+Full-Stack+Developer" alt="Hi"/>
   <img src="https://readme-typing-svg.herokuapp.com?font=Cascadia+Code&size=17&color=0078D7&center=true&vCenter=true&width=700&pause=100000&lines=Vue+%2F+React+%2F+Node.js+%2F+Go+%2F+MySQL+%2F+Redis.;" alt="Profile Info"/>
   <p>
     <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="28px" height="28px"/>
@@ -57,7 +57,3 @@
 </td>
 </tr>
 </table>
-
-<div align="center">
-  <img src="./profile-3d-contrib/profile-green-animate.svg" alt="Personal 3D Metrics"/>
-</div>
