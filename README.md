@@ -1,59 +1,63 @@
-<p align="center">
-  <img src="./assets/readme-banner.svg" alt="HeartBeat Yonder banner" />
+<div align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Cascadia+Code&weight=700&size=17&color=0078D7&center=true&pause=100000&lines=Hi,+I'm+Huuyii.+Full-Stack+Developer" alt="Hi"/>
+  <img src="https://readme-typing-svg.herokuapp.com?font=Cascadia+Code&size=17&color=0078D7&center=true&vCenter=true&width=700&pause=100000&lines=Vue+%2F+React+%2F+Node.js+%2F+Go+%2F+MySQL+%2F+Redis.;" alt="Profile Info"/>
+  <p>
+    <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="28px" height="28px"/>
+    <strong>I'm currently Focus on Full-Stack Development, Backend Services, and Product Delivery.</strong>
+  </p>
+
+  <p>
+    <code>🐼 Based in China.</code>
+    <code>📍 Now Focus on Web Apps and Backend Services.</code>
+  </p>
+
+<p>
+  <a href="https://github.com/huuyii-sleeping" style="text-decoration:none;">
+    <img src="https://img.shields.io/badge/GitHub-huuyii--sleeping-181717?style=flat-square&logo=github&logoColor=white" alt="GitHub"/>
+  </a>
+
+  <a href="mailto:3134846106@qq.com" style="text-decoration:none;">
+    <img src="https://img.shields.io/badge/Email-3134846106%40qq.com-D14836?style=flat-square&logo=gmail&logoColor=white" alt="Email"/>
+  </a>
+
+  <a href="https://github.com/huuyii-sleeping?tab=repositories" style="text-decoration:none;">
+    <img src="https://img.shields.io/badge/Repositories-Projects-0078D7?style=flat-square&logo=github" alt="Repositories"/>
+  </a>
 </p>
 
-<h3 align="center">A passionate full-stack developer from China</h3>
-
-<p align="center">
-  <img src="https://img.shields.io/badge/Full%20Stack-Developer-0EA5E9?style=for-the-badge" alt="Full Stack" />
-  <img src="https://img.shields.io/badge/Node.js-Go-10B981?style=for-the-badge" alt="Node.js Go" />
-  <img src="https://img.shields.io/badge/Vue-React-6366F1?style=for-the-badge" alt="Vue React" />
-</p>
-
-## About Me
-
-- I build full-stack products from UI to deployment.
-- I focus on `Vue`, `React`, `Node.js`, `Go`, `MySQL`, and `Redis`.
-- I like clean architecture, practical delivery, and maintainable code.
-
-![Personal 3D Metrics](./profile-3d-contrib/profile-green-animate.svg)
-
-## Featured Projects
-
-- `Personal homepage` - GitHub profile README and visual branding.
-- `Full-stack app` - API + web client + database driven product.
-- `Backend service` - Go or Node.js service with clean endpoints and caching.
-
-<h3 align="left">Languages and Tools:</h3>
+</div>
 <table>
-  <tr>
-    <td><a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/></a></td>
-    <td><a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" alt="typescript" width="40" height="40"/></a></td>
-    <td><a href="https://vuejs.org/" target="_blank" rel="noreferrer"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vuejs/vuejs-original.svg" alt="vuejs" width="40" height="40"/></a></td>
-    <td><a href="https://react.dev/" target="_blank" rel="noreferrer"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" alt="react" width="40" height="40"/></a></td>
-    <td><a href="https://nodejs.org" target="_blank" rel="noreferrer"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" alt="nodejs" width="40" height="40"/></a></td>
-    <td><a href="https://go.dev/" target="_blank" rel="noreferrer"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/go/go-original.svg" alt="go" width="40" height="40"/></a></td>
-    <td><a href="https://expressjs.com/" target="_blank" rel="noreferrer"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/express/express-original.svg" alt="express" width="40" height="40"/></a></td>
-    <td><a href="https://www.mysql.com/" target="_blank" rel="noreferrer"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" alt="mysql" width="40" height="40"/></a></td>
-    <td><a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" alt="mongodb" width="40" height="40"/></a></td>
-    <td><a href="https://redis.io/" target="_blank" rel="noreferrer"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/redis/redis-original.svg" alt="redis" width="40" height="40"/></a></td>
-    <td><a href="https://www.docker.com/" target="_blank" rel="noreferrer"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" alt="docker" width="40" height="40"/></a></td>
-    <td><a href="https://git-scm.com/" target="_blank" rel="noreferrer"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" alt="git" width="40" height="40"/></a></td>
-  </tr>
+<tr>
+<td valign="top" width="50%">
+  
+#### 💼 Work Experience
+  
+#### 🌱 Project Experience
+
+> 📄 [View Repositories →](https://github.com/huuyii-sleeping?tab=repositories)
+
+<p>
+<strong>Personal Homepage</strong> -- <code>GitHub Profile README · Visual Branding</code> -- <code>2026.</code><br/>
+<strong>Full-Stack App</strong> -- <code>Web Client · API Service · Database</code> -- <code>Learning & Building.</code><br/>
+<strong>Backend Service</strong> -- <code>Node.js / Go · MySQL · Redis</code> -- <code>Learning & Building.</code><br/>
+</p>
+
+</td>
+<td valign="top" width="48%">
+
+#### 💻 Open Source Experience
+
+> 🏅 [View GitHub Stats →](https://github.com/huuyii-sleeping)
+
+- 🚀 **Full-Stack Developer** -- `Vue` · `React` · `Node.js` · `Go`
+- 🛠️ **Backend Learner** -- `MySQL` · `Redis` · `API Design` · `Caching`
+- 🎨 **Frontend Builder** -- `Component Design` · `Interactive UI` · `Product Pages`
+- 📦 **Delivery Focus** -- `Git` · `Docker` · `Clean Architecture` · `Maintainable Code`
+
+</td>
+</tr>
 </table>
 
-## Contact
-
-<p align="left">
-  <img src="https://img.shields.io/badge/Email-3134846106%40qq.com-0EA5E9?style=for-the-badge" alt="email" />
-</p>
-
-<p align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=huuyii-sleeping&theme=github" alt="huuyii-sleeping top languages" height="180" />
-  &nbsp;&nbsp;
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=huuyii-sleeping&theme=github" alt="huuyii-sleeping github stats" height="180" />
-</p>
-
-<p align="center">
-  <img src="https://streak-stats.demolab.com?user=huuyii-sleeping" alt="huuyii-sleeping streak stats" />
-</p>
+<div align="center">
+  <img src="./profile-3d-contrib/profile-green-animate.svg" alt="Personal 3D Metrics"/>
+</div>
